@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'boilerplate'" />
+    <option name="defaultScopeName" value="Project 'boilerplate'" />
+    <option name="SEARCH_SCOPE" value="Project 'boilerplate'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
+      <mask>*doc.html</mask>
+      <mask>*.html</mask>
+    </recentFileMasks>
+  </component>
+</application>
