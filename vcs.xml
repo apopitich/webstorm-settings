@@ -6,12 +6,7 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="apopitich" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/v1vendi/html-course" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\html" />
   </component>
 </application>

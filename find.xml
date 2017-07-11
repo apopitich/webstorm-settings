@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'boilerplate'" />
-    <option name="defaultScopeName" value="Project 'boilerplate'" />
-    <option name="SEARCH_SCOPE" value="Project 'boilerplate'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -12,9 +12,23 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.css</mask>
-      <mask>*.scss</mask>
       <mask>*doc.html</mask>
+      <mask>*.sass</mask>
+      <mask>*.sas</mask>
+      <mask>*.sa</mask>
+      <mask>*s</mask>
+      <mask>*sc</mask>
+      <mask>*scs</mask>
+      <mask>*scss</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
