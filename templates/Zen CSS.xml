@@ -7,4 +7,9 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="vam" value="vertical-align: middle;" description="vertical-align: middle;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
