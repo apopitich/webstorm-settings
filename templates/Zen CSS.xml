@@ -1,6 +1,9 @@
 <templateSet group="Zen CSS">
   <template name="lh" value="line-height:$VAR0$px;" description="line-height:...;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
   </template>
   <template name="tal" value="text-align: left;" description="text-align: left;" toReformat="false" toShortenFQNames="true">
     <context>
