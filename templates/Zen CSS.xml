@@ -15,4 +15,16 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="&amp;:nl" value="&amp;:not(:last-child) {&#10;    $end$&#10;}" description=":not(:last-child)" toReformat="true" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="&amp;:nf" value="&amp;:not(:first-child) {&#10;    $end$&#10;}" description=":not(:first-child)" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
