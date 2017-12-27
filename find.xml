@@ -4,13 +4,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.css</mask>
       <mask>*doc.html</mask>
-      <mask>*.h</mask>
-      <mask>*.htm</mask>
       <mask>*h</mask>
       <mask>*s</mask>
       <mask>*sc</mask>
@@ -25,15 +22,18 @@
       <mask>scss</mask>
       <mask>*.gt</mask>
       <mask>*.g</mask>
+      <mask>*.vue</mask>
+      <mask>*.vu</mask>
+      <mask>*.v</mask>
+      <mask>*.h</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.ht</mask>
+      <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.v</mask>
-      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>
