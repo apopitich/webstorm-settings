@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vue" />
     <recentFileMasks>
       <mask>*s</mask>
       <mask>*sc</mask>
@@ -17,9 +18,7 @@
       <mask>scss</mask>
       <mask>*.gt</mask>
       <mask>*.g</mask>
-      <mask>*.vue</mask>
       <mask>*.vu</mask>
-      <mask>*.v</mask>
       <mask>*.h</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
@@ -34,6 +33,8 @@
       <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.v</mask>
+      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>
