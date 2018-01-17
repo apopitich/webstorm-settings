@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.css</mask>
-      <mask>*doc.html</mask>
-      <mask>*h</mask>
       <mask>*s</mask>
       <mask>*sc</mask>
       <mask>*scs</mask>
@@ -29,11 +24,16 @@
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.sass</mask>
+      <mask>*.sas</mask>
+      <mask>*.sa</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
