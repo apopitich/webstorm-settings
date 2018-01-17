@@ -19,21 +19,21 @@
       <mask>*.g</mask>
       <mask>*.vu</mask>
       <mask>*.h</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
       <mask>*.sass</mask>
       <mask>*.sas</mask>
       <mask>*.sa</mask>
-      <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.v</mask>
       <mask>*.vue</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
