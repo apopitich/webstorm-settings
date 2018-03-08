@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="NewStyles" />
-    <option name="defaultScopeName" value="NewStyles" />
-    <option name="SEARCH_SCOPE" value="NewStyles" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*sc</mask>
       <mask>*scs</mask>
