@@ -6,6 +6,7 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
+  <action id="ExpressionTypeInfo" />
   <action id="IncrementWindowHeight" />
   <action id="Macro.text">
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -14,6 +15,9 @@
   <action id="MoveLineUp" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
