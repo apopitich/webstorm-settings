@@ -13,5 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
