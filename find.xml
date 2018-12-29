@@ -12,8 +12,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*.vue</mask>
     <mask>*.njk</mask>
+    <mask>*.html</mask>
   </component>
 </application>
