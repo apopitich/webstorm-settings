@@ -1,8 +1,4 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_SCALE" value="1.25" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -17,5 +13,5 @@
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="LiveEditOptions" restartIfHotSwapFailed="true" />
+  <component name="LiveEditOptions" chromeUpdateApp="true" restartIfHotSwapFailed="true" />
 </application>
