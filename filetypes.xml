@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="TSLint" />
       <mapping ext="njk" type="XHTML" />
     </extensionMap>
   </component>
